@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "57dad29c81a0adf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "68a56053b15ebf7b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5c0820e0f2d0611c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1ed5ae06e54c358",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ed2bfe998646a34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f81a69ae3eb2d65",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime"
+              }
+            }
+          },
+          {
+            "id": "bf76e072ab2af992",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f26da5296d0efbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "58973b98a57a214b",
+    "type": "split",
+    "children": [
+      {
+        "id": "08f1fef6b287a84f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90f47c94be0de670",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfc1b2a746e06f06",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eabdd7bd5ee3e4b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b1267fc0919e766",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily Coding Test/가장 많이 받은 선물.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "6f81a69ae3eb2d65",
+  "lastOpenFiles": [
+    "Algorithm",
+    "무제 파일.canvas",
+    "Daily Coding Test/가장 많이 받은 선물.md",
+    "무제 파일.md",
+    "하루에 한 문제/2024-07-12.md",
+    "하루에 한 문제/백준",
+    "하루에 한 문제/프로그래머스",
+    "Daily Coding Test",
+    "TIL",
+    "Welcome.md"
+  ]
+}
