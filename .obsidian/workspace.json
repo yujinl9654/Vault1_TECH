@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "68a56053b15ebf7b",
+        "id": "af0bdfa08e2fab88",
         "type": "tabs",
         "children": [
           {
-            "id": "5c0820e0f2d0611c",
+            "id": "b48d6e2cd014a605",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "224f377f12b9a166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-2 반복.md",
                 "mode": "source",
                 "source": false
               }
@@ -129,7 +141,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,11 +159,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5c0820e0f2d0611c",
+  "active": "b48d6e2cd014a605",
   "lastOpenFiles": [
-    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/무제 파일.canvas",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-2 반복.md",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
-    "무제 파일.md",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.04.10.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.35.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.04.03.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.39.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.29.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.25.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.49.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.53.png",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/무제 파일.canvas",
     "Daily Coding Test/가장 많이 받은 선물.md",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문",
     "Algorithm",
