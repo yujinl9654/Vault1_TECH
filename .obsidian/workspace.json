@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Coding Test/가장 많이 받은 선물.md",
+                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Coding Test/가장 많이 받은 선물.md"
+                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6f81a69ae3eb2d65",
+  "active": "5c0820e0f2d0611c",
   "lastOpenFiles": [
+    "Daily Coding Test/가장 많이 받은 선물.md",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문",
     "Algorithm",
     "무제 파일.canvas",
-    "Daily Coding Test/가장 많이 받은 선물.md",
     "무제 파일.md",
     "하루에 한 문제/2024-07-12.md",
     "하루에 한 문제/백준",
