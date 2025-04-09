@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "af0bdfa08e2fab88",
+        "id": "30042cb1bd0028f7",
         "type": "tabs",
         "children": [
           {
-            "id": "b48d6e2cd014a605",
+            "id": "2e55e6852795ac26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "224f377f12b9a166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-2 반복.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -97,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -159,10 +139,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b48d6e2cd014a605",
+  "active": "6f81a69ae3eb2d65",
   "lastOpenFiles": [
-    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-2 반복.md",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-1 알고리즘이란?.md",
+    "Algorithm/자료구조와 함께 배우는 알고리즘 입문/01-2 반복.md",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.04.10.png",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img",
     "Algorithm/자료구조와 함께 배우는 알고리즘 입문/img/스크린샷 2024-07-18 오전 11.00.35.png",
